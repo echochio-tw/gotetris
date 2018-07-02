@@ -1,4 +1,4 @@
-# gotetris: Tetris Written in Go
+# gotetris: Tetris Written in Go copy from jjinux
 
 This is a console-based version of Tetris written in Go.
 
