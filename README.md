@@ -15,11 +15,10 @@ See [How to Write Go Code](https://golang.org/doc/code.html).
 
 Setup your Go workspace:
 
-	mkdir -p gotetris/src/github.com/jjinux
+	mkdir -p gotetris/src/github.com/echochio-tw
 	cd gotetris
-	(cd src/github.com/jjinux &&
-	  git clone https://github.com/jjinux/gotetris.git)
-	echo "See src/github.com/jjinux/gotetris/README." > README
+	(cd src/github.com/echochio-tw &&
+	  git clone https://github.com/echochio-tw/gotetris.git)
 
 	# Do this each time to work on the code from the top-level
 	# gotetris directory.
@@ -31,7 +30,7 @@ Setup your Go workspace:
 
 Build:
 
-	go install github.com/jjinux/gotetris
+	go install github.com/echochio-tw/gotetris
 
 Execute:
 
